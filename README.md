@@ -15,14 +15,14 @@ The QR Code Challenge requires you to build a responsive card layout consisting 
 
 ### Screenshot
 
-![](./screenshot/sc_desktop.png)
+![](./screenshots/sc_desktop.png)
 
-![](./screenshot/sc_mobile.png)
+![](./screenshots/sc_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://neraverze.github.io/qr_code_challenge_frontend-mentor](https://neraverze.github.io/qr_code_challenge_frontend-mentor)
+- Live Site URL: [https://neraverze.github.io/qr_code_challenge_frontend-mentor](https://neraverze.github.io/qr_code_challenge_frontend-mentor)
 
 ### Built with
 
