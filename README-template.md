@@ -35,4 +35,4 @@ The QR Code Challenge requires you to build a responsive card layout consisting 
 ## Author
 
 - Frontend Mentor - [@neraverze](https://www.frontendmentor.io/profile/neraverze)
-- Github - [@neraverze](https://www.github.io/neraverze)
+- Github - [@neraverze](https://www.github.com/neraverze)
